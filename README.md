@@ -55,7 +55,7 @@ Mata kuliah *Pemrograman Web 2* membahas pengembangan aplikasi web dengan teknol
 
 1. **Clone repository** ini ke komputer lokal:
    ```bash
-   git clone https://github.com/ilgo123/repo-pemrograman-web2.git
+   git clone https://github.com/ilgo123/web-2.git
    ```
 2. Masuk ke direktori repository:
    ```bash
